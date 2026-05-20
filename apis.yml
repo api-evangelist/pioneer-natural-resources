@@ -19,6 +19,8 @@ description: >-
   the company as a non-API operator within the energy sector.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pioneer-natural-resources-company
   - type: Website
     url: https://www.pioneer-natural-resources.com
     name: Pioneer Natural Resources Website
