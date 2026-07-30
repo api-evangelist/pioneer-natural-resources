@@ -1,11 +1,22 @@
 aid: pioneer-natural-resources
 name: Pioneer Natural Resources
 url: https://raw.githubusercontent.com/api-evangelist/pioneer-natural-resources/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.19'
 type: Index
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pioneer-natural-resources.png
 tags:
   - Oil
   - Gas
