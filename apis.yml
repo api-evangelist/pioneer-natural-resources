@@ -1,6 +1,9 @@
 aid: pioneer-natural-resources
 name: Pioneer Natural Resources
 url: https://raw.githubusercontent.com/api-evangelist/pioneer-natural-resources/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public APIs or developer resources were published; this entry tracks the company as a non-API operator within the energy sector."
 deliveryModel:
   model: unknown
   open_source: false
