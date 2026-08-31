@@ -45,6 +45,11 @@ description: >-
   the company as a non-API operator within the energy sector.
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/exxon-mobil/
+    name: ExxonMobil
+    x-relationship: acquired
+    x-evidence: "Pioneer Natural Resources was a large independent oil and gas exploration and production company with operations focused in the Permian Basin of Texas before being acquired by ExxonMobil. No public APIs or developer resources were published"
   - type: LinkedIn
     url: https://www.linkedin.com/company/pioneer-natural-resources-company
   - type: Website
