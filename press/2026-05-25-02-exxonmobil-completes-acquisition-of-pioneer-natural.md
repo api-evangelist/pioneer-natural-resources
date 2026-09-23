@@ -1,7 +1,9 @@
 ---
 title: ExxonMobil Completes Acquisition of Pioneer Natural ...
 url: https://energynow.com/2024/05/exxonmobil-completes-acquisition-of-pioneer-natural-resources/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pioneer Natural Resources" press release artificial intelligence'
 position: 2
 source: serpapi-google

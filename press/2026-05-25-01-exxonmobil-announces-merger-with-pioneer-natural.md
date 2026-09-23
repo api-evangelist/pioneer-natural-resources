@@ -1,7 +1,9 @@
 ---
 title: ExxonMobil announces merger with Pioneer Natural ...
 url: https://corporate.exxonmobil.com/news/news-releases/2023/1011_exxonmobil-announces-merger-with-pioneer-natural-resources-in-an-all-stock-transaction
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pioneer Natural Resources" press release artificial intelligence'
 position: 1
 source: serpapi-google
