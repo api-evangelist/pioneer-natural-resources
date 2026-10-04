@@ -65,3 +65,9 @@ x-lifecycle:
   detail: >-
     The company's own domain returned no A or AAAA record when probed. This is an observation about the domain, not a request from the company.
   indexed: false
+x-status: acquired
+x-acquired-by: exxon-mobil
+x-parent: exxon-mobil
+x-acquired-date: '2024-05'
+x-status-source: "https://www.nasdaq.com/press-release/exxonmobil-completes-acquisition-of-pioneer-natural-resources-2024-05-03"
+x-status-evidence: "ExxonMobil completed its acquisition of Pioneer on 2024-05-03; Pioneer survives as a wholly owned subsidiary (roadmap#812)"
